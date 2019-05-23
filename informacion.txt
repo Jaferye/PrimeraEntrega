@@ -1,0 +1,9 @@
+La persona: Yeimer
+Cedula: 100056478
+Con interes de: inscribir
+
+El curso que ha elegido es:
+   Id del curso: 3
+   Nombre del curso: Culinaria.
+   Duracion en horas: 550
+   Valor del curso: 2250000
